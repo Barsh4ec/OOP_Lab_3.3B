@@ -1,0 +1,6 @@
+﻿  UnitTest1.cpp
+C:\Users\taras\source\repos\OOP_Lab_3.3B\OOP_Lab_3.3B\Vector3D.cpp(13,16): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+C:\Users\taras\source\repos\OOP_Lab_3.3B\OOP_Lab_3.3B\Vector3D.cpp(13,13): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+C:\Users\taras\source\repos\OOP_Lab_3.3B\OOP_Lab_3.3B\Vector3D.cpp(13,10): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+C:\Users\taras\source\repos\OOP_Lab_3.3B\UnitTest1\UnitTest1.cpp(18,10): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  UnitTest1.vcxproj -> C:\Users\taras\source\repos\OOP_Lab_3.3B\Debug\UnitTest1.dll
